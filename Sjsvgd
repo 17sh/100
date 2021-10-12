@@ -1,0 +1,56 @@
+{
+    "manifest": {
+        "author": "ผมมันไม่มีใครรักอยู่แล้ว#5052",
+        "name": "ชอบอนิเมะ",
+        "version": "1.0.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/Vendicated\/AliuFox-themes\/main\/Cozy202K.json"
+    },
+    "background": {
+        "url": "https:\/\/i.ibb.co\/2FYYKDR\/anime-girl.gif"
+    },
+    "fonts": {
+        "*": "https:\/\/github.com\/Subtilizer28\/AliuAnimeThemes\/blob\/main\/Fonts\/Roboto%20Condensed\/RobotoCondensed-Regular.ttf?raw=true"
+    },
+    "simple_colors": {
+        "accent": -7181660,
+        "background": 823991839,
+        "background_secondary": 891100703,
+        "mention_highlight": 555556383,
+        "active_channel": -7181660,
+        "statusbar": -5407038,
+        "input_background": -5407038
+    },
+    "colors": {
+        "black_630": -7181660,
+        "black_600": -7181660,
+        "black_560": -7181660,
+        "black_530": -7181660,
+        "black_500": -7181660,
+        "black_460": -7181660,
+        "black_430": -7181660,
+        "black_400": -7181660,
+        "black_360": -7181660,
+        "black_300": -7181660,
+        "black_260": -7181660,
+        "black_230": -7181660,
+        "black": -7181660,
+        "link": -4259772,
+        "uikit_btn_bg_color_selector_green": -7181660,
+        "abc_btn_colored_borderless_text_material": -7181660,
+        "abc_background_cache_hint_selector_material_light": -7181660,
+        "abc_background_cache_hint_selector_material_dark": -7181660,
+        "abc_decor_view_status_guard": -7181660,
+        "abc_color_highlight_material": -7181660,
+        "abc_btn_colored_text_material": -7181660,
+        "uikit_btn_bg_color_selector_secondary_light": -7181660,
+        "uikit_btn_bg_color_selector_secondary_dark": -7181660,
+        "uikit_btn_bg_color_selector_secondary": -7181660,
+        "uikit_btn_bg_color_selector_red": -7181660,
+        "uikit_btn_bg_color_selector_brand": -7181660,
+        "uikit_btn_bg_color_selector_background_accent_light": -7181660,
+        "uikit_btn_bg_color_selector_background_accent_dark": -7181660
+    },
+    "drawable_tints": {
+        "abc_action_bar_item_background_material": -7181660
+    }
+}
